@@ -2,6 +2,10 @@ All credit to Emerald Dragoon for creating Altergoon.
 
 https://github.com/EmeraldDragoon24/altergoon1.1/releases
 
+Thanks to Icarus for creating Fashigoon
+
+https://github.com/avionanx/fashigoon
+
 Unpack to Fashigoon collections folder.
 
 <img width="1950" height="1254" alt="image" src="https://github.com/user-attachments/assets/2998160a-530a-47c3-ab28-cf5502cbc42b" />
