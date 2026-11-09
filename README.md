@@ -1,6 +1,6 @@
 All credit to Emerald Dragoon for creating Altergoon.
 
-https://github.com/EmeraldDragoon24/altergoon1.1/releases/tag/update
+https://github.com/EmeraldDragoon24/altergoon1.1/releases
 
 Unpack to Fashigoon collections folder.
 
