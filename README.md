@@ -2,7 +2,7 @@ All credit to Emerald Dragoon for creating Altergoon.
 
 https://github.com/EmeraldDragoon24/altergoon1.1/releases
 
-Thanks to Icarus for creating Fashigoon
+Thanks to Icarus for creating Fashigoon.
 
 https://github.com/avionanx/fashigoon
 
